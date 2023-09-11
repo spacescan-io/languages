@@ -495,7 +495,25 @@
   "DateFormat": "తేదీ ఫార్మాట్",
   "TimeFormat": "సమయ ఫార్మాట్",
   "Network": "నెట్వర్క్",
-  "MeetTheTeam": "జత టీమ్ (Jata ṭīm)"
+  "MeetTheTeam": "జత టీమ్ (Jata ṭīm)",
+    "Edityourdetails": "మీ వివరాలను సవరించండి",
+    "AssetDetails": "ఆస్తు వివరాలు",
+    "Asset": "ఆస్తు",
+    "Name": "పేరు",
+    "MonitortransactionseveryblockandMayincludenonconfirmedtransactionsduetoforks": "ప్రతి బ్లాక్ నుండి పరిశోధించండి మరియు పోర్క్స్ వలన అన్‌కన్ఫర్మ్డ్ లేని లేదా అనుమతించడానికి వర్తిస్తుంది.",
+    "Monitortransactionsafter32confrimedblocksandmorereliableMonitortransactionsafter32confrimedblocksandmorereliable": "32 నమోదు చేసిన బ్లాక్ల తర్వాత పరిశోధించే విధానం మరియు మరియు అనివార్యమైన 32 నమోదు చేసిన బ్లాక్ల తర్వాత పరిశోధించే విధానం మరియు మరియు అనివార్యమైన",
+    "Monitortransactionshappenedperdayandmorereliable": "రోజుకు జరిగిన లేదా మరియు అనివార్యమైన లేని లేని లేకుండా లేకుండా పరిశోధించండి",
+    "Alerts": "హెచ్చరికలు",
+    "XCHTransactionAlert": "XCH పరిశోధన హెచ్చరిక",
+    "MinimumAmount": "కనిష్ఠ మొత్తం",
+    "Spend": "ఖర్చు చేయండి",
+    "Receive": "స్వీకరించు",
+    "NFTAlert": "NFT హెచ్చరిక",
+    "CATAlert": "CAT హెచ్చరిక",
+    "NotificationType": "నోటిఫికేషన్ రకం",
+    "Email": "ఇమెయిల్",
+    "Done": "పూర్తి",
+    "Getalertgreaterthanthespecifiedamount": "ప్రదానపు మొత్తం కంటే ఎక్కువ హెచ్చరికను పొందండి"
   
   
 

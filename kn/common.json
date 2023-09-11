@@ -491,7 +491,28 @@
   "DateFormat": "ದಿನಾಂಕ ಸ್ವರೂಪ",
   "TimeFormat": "ಸಮಯ ಸ್ವರೂಪ",
   "Network": "ನೆಟ್ವರ್ಕ್",
-  "MeetTheTeam":"ತಂಡವನ್ನು ಭೇಟಿಯಾಗಿ"
+  "MeetTheTeam":"ತಂಡವನ್ನು ಭೇಟಿಯಾಗಿ",
+
+	"Edityourdetails": "ನಿಮ್ಮ ವಿವರಗಳನ್ನು ಸಂಪಾದಿಸಿ",
+	"AssetDetails": "ಆಸ್ತಿ ವಿವರಗಳು",
+	"Asset": "ಆಸ್ತಿ",
+	"Name": "ಹೆಸರು",
+	"MonitortransactionseveryblockandMayincludenonconfirmedtransactionsduetoforks": "ಪ್ರತಿ ಬ್ಲಾಕ್ ನಲ್ಲಿ ಲೆಕ್ಕಿಸಿ ಬೋರ್ಕ್‌ಗಳ ಕಾರಣದಿಂದ ಅನಿಮಿತ ಲಾಭವಿಲ್ಲದ ಲಾಭಾಂಶಗಳನ್ನು ಸೇರಿಸಿಕೊಳ್ಳಿ.",
+	"Monitortransactionsafter32confrimedblocksandmorereliableMonitortransactionsafter32confrimedblocksandmorereliable": "32 ದಿನಗಳ ನಂತರ ವರದಿಗಳನ್ನು ಸಹಕರಿಸಿ, ನಂಬಲು ಲೇಸು. 32 ದಿನಗಳ ನಂತರ ವರದಿಗಳನ್ನು ಸಹಕರಿಸಿ, ನಂಬಲು ಲೇಸು.",
+	"Monitortransactionshappenedperdayandmorereliable": "ದಿನಕ್ಕೆ ನಡೆಯಿಸಿದ ವರದಿಗಳನ್ನು ಸಹಕರಿಸಿ, ನಂಬಲು ಲೇಸು",
+	"Alerts": "ಎಚ್ಚರಿಕೆಗಳು",
+	"XCHTransactionAlert": "XCH ವರದಿ ಎಚ್ಚರಿಕೆ",
+	"MinimumAmount": "ಕನಿಷ್ಠ ಮೊತ್ತ",
+	"Spend": "ಖರ್ಚು ಮಾಡಿ",
+	"Receive": "ಸ್ವೀಕರಿಸಿ",
+	"NFTAlert": "NFT ಎಚ್ಚರಿಕೆ",
+	"CATAlert": "CAT ಎಚ್ಚರಿಕೆ",
+	"NotificationType": "ಅಧಿಸೂಚನೆ ಪ್ರಕಾರ",
+	"Email": "ಇಮೇಲ್",
+	"Done": "ಮುಗಿಸಿ",
+	"Getalertgreaterthanthespecifiedamount": "ನಿಗದಿಪಟ್ಟ ಮೊತ್ತಕ್ಕಿಂತ ಹೆಚ್ಚಿನ ಎಚ್ಚರಿಕೆ ಪಡೆಯಿರಿ"
+  
+  
 }
 		
   

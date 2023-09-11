@@ -501,7 +501,28 @@
   "TimeFormat": "Format Waktu",
   "Network": "Jaringan",
     
-  "MeetTheTeam":"Temui Tim"
+  "MeetTheTeam":"Temui Tim",
+  
+	"Edityourdetails": "Edit rincian Anda",
+	"AssetDetails": "Rincian Aset",
+	"Asset": "Aset",
+	"Name": "Nama",
+	"MonitortransactionseveryblockandMayincludenonconfirmedtransactionsduetoforks": "Monitor transaksi setiap blok dan dapat mencakup transaksi yang belum dikonfirmasi karena fork.",
+	"Monitortransactionsafter32confrimedblocksandmorereliableMonitortransactionsafter32confrimedblocksandmorereliable": "Monitor transaksi setelah 32 blok dikonfirmasi dan lebih andalMonitor transaksi setelah 32 blok dikonfirmasi dan lebih andal",
+	"Monitortransactionshappenedperdayandmorereliable": "Monitor transaksi yang terjadi per hari dan lebih andal",
+	"Alerts": "Peringatan",
+	"XCHTransactionAlert": "Peringatan Transaksi XCH",
+	"MinimumAmount": "Jumlah Minimum",
+	"Spend": "Beli",
+	"Receive": "Terima",
+	"NFTAlert": "Peringatan NFT",
+	"CATAlert": "Peringatan CAT",
+	"NotificationType": "Tipe Notifikasi",
+	"Email": "E-mail",
+	"Done": "Selesai",
+	"Getalertgreaterthanthespecifiedamount": "Dapatkan peringatan lebih dari jumlah yang ditentukan"
+  
+  
 }
   
   

@@ -500,10 +500,27 @@
     "DateFormat": "தேதி வடிவம்",
     "TimeFormat": "நேர வடிவம்",
     "Network": "வலைப்பின்னல்",
-    "MeetTheTeam":"குழுவை சந்திக்கவும்"
-  
-  
-  
+    "MeetTheTeam":"குழுவை சந்திக்கவும்",
+        "Edityourdetails": "உங்கள் விபரங்களை திருத்துக",
+        "AssetDetails": "சொத்து விபரங்கள்",
+        "Asset": "சொத்து",
+        "Name": "பெயர்",
+        "MonitortransactionseveryblockandMayincludenonconfirmedtransactionsduetoforks": "கட்டிடம் ஒவ்வொரு பட்டியலும் பரவியும் கொண்டுள்ள பரிதளங்கள் காட்டும் மற்றும் போர்க்குகள் காரணமாக உறுதிபாக்கப்படாத பரிதளங்களையும் அடைவும் கொள்ளுங்கள்.",
+        "Monitortransactionsafter32confrimedblocksandmorereliableMonitortransactionsafter32confrimedblocksandmorereliable": "32 உறுதிச் செய்த பட்டிகளுக்கு பிறகு பரிதளங்களை கண்காணிக்கவும் மேலும் நம்பக்கூடியவை பரிதளங்களை கண்காணிக்கவும்.",
+        "Monitortransactionshappenedperdayandmorereliable": "ஒவ்வொரு நாளும் உண்டான பரிதளங்களை கண்காணிக்கவும் மேலும் நம்பக்கூடியவை கண்காணிக்கவும்.",
+        "Alerts": "எச்சரிக்கைகள்",
+        "XCHTransactionAlert": "XCH பரிதள எச்சரிக்கை",
+        "MinimumAmount": "குறைந்த தொகை",
+        "Spend": "செலவிடுக",
+        "Receive": "பெறுக",
+        "NFTAlert": "NFT எச்சரிக்கை",
+        "CATAlert": "CAT எச்சரிக்கை",
+        "NotificationType": "அறிவிப்பு வகை",
+        "Email": "மின்னஞ்சல்",
+        "Done": "முடிந்தது",
+        "Getalertgreaterthanthespecifiedamount": "குறிப்பிடப்பட்ட தொகைக்கு மேல் எச்சரிக்கையைப் பெறுக"
+
+      
 
 
 }

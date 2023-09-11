@@ -494,7 +494,27 @@
   "DateFormat": "날짜 형식",
   "TimeFormat": "시간 형식",
   "Network": "네트워크",
-  "MeetTheTeam":"팀을 만나보세요"
+  "MeetTheTeam":"팀을 만나보세요",
+	"Edityourdetails": "세부 정보 수정",
+	"AssetDetails": "자산 세부 정보",
+	"Asset": "자산",
+	"Name": "이름",
+	"MonitortransactionseveryblockandMayincludenonconfirmedtransactionsduetoforks": "매 블록마다 거래를 모니터하고 포크로 인한 확인되지 않은 거래를 포함할 수 있습니다.",
+	"Monitortransactionsafter32confrimedblocksandmorereliableMonitortransactionsafter32confrimedblocksandmorereliable": "32개 확인된 블록 이후 거래를 모니터하고 더 신뢰성 있게 모니터합니다. 32개 확인된 블록 이후 거래를 모니터하고 더 신뢰성 있게 모니터합니다.",
+	"Monitortransactionshappenedperdayandmorereliable": "하루에 발생한 거래를 모니터하고 더 신뢰성 있게 모니터합니다.",
+	"Alerts": "알림",
+	"XCHTransactionAlert": "XCH 거래 알림",
+	"MinimumAmount": "최소 금액",
+	"Spend": "지출",
+	"Receive": "수신",
+	"NFTAlert": "NFT 알림",
+	"CATAlert": "CAT 알림",
+	"NotificationType": "알림 유형",
+	"Email": "이메일",
+	"Done": "완료",
+	"Getalertgreaterthanthespecifiedamount": "지정된 금액보다 큰 알림 받기"
+  
+  
 }
   
   
