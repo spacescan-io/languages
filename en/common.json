@@ -485,7 +485,26 @@
 "DateFormat":"Date Format",
 "TimeFormat":"Time Format",
 "Network":"Network",
-"MeetTheTeam":"Meet The Team"
+"MeetTheTeam":"Meet The Team",
+
+"Edityourdetails":"Edit your details",
+"AssetDetails":"Asset Details",
+"Asset":"Asset",
+"Name":"Name",
+"MonitortransactionseveryblockandMayincludenonconfirmedtransactionsduetoforks":"Monitor transactions every block and May include non confirmed transactions due to forks.",
+"Monitortransactionsafter32confrimedblocksandmorereliableMonitortransactionsafter32confrimedblocksandmorereliable":"Monitor transactions after 32 confrimed blocks and more reliableMonitor transactions after 32 confrimed blocks and more reliable",
+"Monitortransactionshappenedperdayandmorereliable":"Monitor transactions happened per day and more reliable",
+"Alerts":"Alerts",
+"XCHTransactionAlert":"XCH Transaction Alert",
+"MinimumAmount":"Minimum Amount",
+"Spend":"Spend",
+"Receive":"Receive",
+"NFTAlert":"NFT Alert",
+"CATAlert":"CAT Alert",
+"NotificationType":"Notification Type",
+"Email":"E-mail",
+"Done":"Done",
+"Getalertgreaterthanthespecifiedamount":"Get alert greater than the specified amount"
 
 
 

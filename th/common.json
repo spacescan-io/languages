@@ -493,7 +493,28 @@
   "DateFormat": "รูปแบบวันที่",
   "TimeFormat": "รูปแบบเวลา",
   "Network": "เครือข่าย"  ,
-  "MeetTheTeam": "พบทีม (Phó thīm)"
+  "MeetTheTeam": "พบทีม (Phó thīm)",
+
+    "Edityourdetails": "แก้ไขรายละเอียดของคุณ",
+    "AssetDetails": "รายละเอียดสินทรัพย์",
+    "Asset": "สินทรัพย์",
+    "Name": "ชื่อ",
+    "MonitortransactionseveryblockandMayincludenonconfirmedtransactionsduetoforks": "ตรวจสอบธุรกรรมทุกบล็อกและอาจรวมถึงธุรกรรมที่ไม่ได้รับการยืนยันเนื่องจากการแยกชั้น.",
+    "Monitortransactionsafter32confrimedblocksandmorereliableMonitortransactionsafter32confrimedblocksandmorereliable": "ตรวจสอบธุรกรรมหลังจาก 32 บล็อกที่ได้รับการยืนยันและเป็นประสิทธิภาพมากกว่า 32 บล็อกที่ได้รับการยืนยันและเป็นประสิทธิภาพมากกว่า",
+    "Monitortransactionshappenedperdayandmorereliable": "ตรวจสอบธุรกรรมที่เกิดขึ้นต่อวันและมีความเชื่อถือได้มากกว่า",
+    "Alerts": "การแจ้งเตือน",
+    "XCHTransactionAlert": "การแจ้งเตือนธุรกรรม XCH",
+    "MinimumAmount": "ยอดเงินขั้นต่ำ",
+    "Spend": "ใช้จ่าย",
+    "Receive": "รับ",
+    "NFTAlert": "การแจ้งเตือน NFT",
+    "CATAlert": "การแจ้งเตือน CAT",
+    "NotificationType": "ประเภทการแจ้งเตือน",
+    "Email": "อีเมล",
+    "Done": "เสร็จสิ้น",
+    "Getalertgreaterthanthespecifiedamount": "รับการแจ้งเตือนมากกว่ายอดเงินที่ระบุ"
+
+  
 
 
 

@@ -501,7 +501,28 @@
   "DateFormat": "Formato de fecha",
   "TimeFormat": "Formato de hora",
   "Network": "Red"  ,
-  "MeetTheTeam": "Conoce al equipo"
+  "MeetTheTeam": "Conoce al equipo",
+
+    "Edityourdetails": "Editar tus detalles",
+    "AssetDetails": "Detalles del activo",
+    "Asset": "Activo",
+    "Name": "Nombre",
+    "MonitortransactionseveryblockandMayincludenonconfirmedtransactionsduetoforks": "Monitorear transacciones en cada bloque y puede incluir transacciones no confirmadas debido a bifurcaciones.",
+    "Monitortransactionsafter32confrimedblocksandmorereliableMonitortransactionsafter32confrimedblocksandmorereliable": "Monitorear transacciones después de 32 bloques confirmados y más confiable. Monitorear transacciones después de 32 bloques confirmados y más confiable.",
+    "Monitortransactionshappenedperdayandmorereliable": "Monitorear transacciones ocurridas por día y más confiable",
+    "Alerts": "Alertas",
+    "XCHTransactionAlert": "Alerta de Transacción XCH",
+    "MinimumAmount": "Monto Mínimo",
+    "Spend": "Gastar",
+    "Receive": "Recibir",
+    "NFTAlert": "Alerta NFT",
+    "CATAlert": "Alerta CAT",
+    "NotificationType": "Tipo de Notificación",
+    "Email": "Correo Electrónico",
+    "Done": "Hecho",
+    "Getalertgreaterthanthespecifiedamount": "Obtener alertas mayores al monto especificado"
+
+  
   
   
 

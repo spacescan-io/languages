@@ -508,7 +508,27 @@
   "DateFormat": "日期格式",
   "TimeFormat": "时间格式",
   "Network": "网络",
-  "MeetTheTeam": "认识团队"
+  "MeetTheTeam": "认识团队",
+	"Edityourdetails": "编辑您的详细信息",
+	"AssetDetails": "资产详情",
+	"Asset": "资产",
+	"Name": "名称",
+	"MonitortransactionseveryblockandMayincludenonconfirmedtransactionsduetoforks": "监控每个区块的交易，可能包括由于分叉而未确认的交易。",
+	"Monitortransactionsafter32confrimedblocksandmorereliableMonitortransactionsafter32confrimedblocksandmorereliable": "在32个已确认的区块之后监控交易，更加可靠。在32个已确认的区块之后监控交易，更加可靠。",
+	"Monitortransactionshappenedperdayandmorereliable": "监控每天发生的交易，更加可靠",
+	"Alerts": "警报",
+	"XCHTransactionAlert": "XCH交易警报",
+	"MinimumAmount": "最低金额",
+	"Spend": "花费",
+	"Receive": "接收",
+	"NFTAlert": "NFT警报",
+	"CATAlert": "CAT警报",
+	"NotificationType": "通知类型",
+	"Email": "电子邮件",
+	"Done": "完成",
+	"Getalertgreaterthanthespecifiedamount": "获得超过指定金额的警报"
+  
+  
 	
 
   

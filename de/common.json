@@ -490,7 +490,27 @@
   "DateFormat": "Datumsformat",
   "TimeFormat": "Zeitformat",
   "Network": "Netzwerk"	,
-  "MeetTheTeam": "Das Team kennenlernen"
+  "MeetTheTeam": "Das Team kennenlernen",
+	"Edityourdetails": "Ihre Details bearbeiten",
+	"AssetDetails": "Vermögenswertdetails",
+	"Asset": "Vermögenswert",
+	"Name": "Name",
+	"MonitortransactionseveryblockandMayincludenonconfirmedtransactionsduetoforks": "Überwachen Sie Transaktionen bei jedem Block und können nicht bestätigte Transaktionen aufgrund von Forks enthalten.",
+	"Monitortransactionsafter32confrimedblocksandmorereliableMonitortransactionsafter32confrimedblocksandmorereliable": "Überwachen Sie Transaktionen nach 32 bestätigten Blöcken und zuverlässigerMonitor Transaktionen nach 32 bestätigten Blöcken und zuverlässiger",
+	"Monitortransactionshappenedperdayandmorereliable": "Überwachen Sie Transaktionen, die pro Tag stattgefunden haben, und sind zuverlässiger",
+	"Alerts": "Warnungen",
+	"XCHTransactionAlert": "XCH Transaktionswarnung",
+	"MinimumAmount": "Mindestbetrag",
+	"Spend": "Ausgeben",
+	"Receive": "Empfangen",
+	"NFTAlert": "NFT Warnung",
+	"CATAlert": "CAT Warnung",
+	"NotificationType": "Benachrichtigungsart",
+	"Email": "E-Mail",
+	"Done": "Fertig",
+	"Getalertgreaterthanthespecifiedamount": "Erhalten Sie eine Warnung über den angegebenen Betrag hinaus"
+  
+  
 
   
 
