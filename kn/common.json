@@ -510,8 +510,16 @@
 	"NotificationType": "ಅಧಿಸೂಚನೆ ಪ್ರಕಾರ",
 	"Email": "ಇಮೇಲ್",
 	"Done": "ಮುಗಿಸಿ",
-	"Getalertgreaterthanthespecifiedamount": "ನಿಗದಿಪಟ್ಟ ಮೊತ್ತಕ್ಕಿಂತ ಹೆಚ್ಚಿನ ಎಚ್ಚರಿಕೆ ಪಡೆಯಿರಿ"
-  
+	"Getalertgreaterthanthespecifiedamount": "ನಿಗದಿಪಟ್ಟ ಮೊತ್ತಕ್ಕಿಂತ ಹೆಚ್ಚಿನ ಎಚ್ಚರಿಕೆ ಪಡೆಯಿರಿ",
+    "Frequency": "ಹೆಚ್ಚಿನ",
+  "Alert": "ಎಚ್ಚರಿಕೆ",
+  "DoyouconfirmthatyouwanttostopAssetMonitoring": "ನೀವು ಆಸೆಟ್ ಗಣಕದ ಮಾಡುವುದನ್ನು ನಿಲ್ಲಿಸಲು ಬಯಸುತ್ತೀರಾ?",
+  "WillstopmonitoringtheaddressonceyouRemoved": "ನೀವು ಅದನ್ನು ತೆಗೆದುಹಾಕುತ್ತೀರಿ ನಂತರ ವಿಳಾಸವನ್ನು ಹೆಚ್ಚುತ್ತದೆ",
+  "Remove": "ತೆಗೆದುಹಾಕು",
+  "NotificationHistory": "ಅಧಿಸೂಚನಾ ಇತಿಹಾಸ",
+  "Monitoringaddress": "ನಿಗದಿಪಟ್ಟ ವಿಳಾಸ:",
+  "Transaction": "ಲಾವಾದಾರಿ",
+  "NoNotifications": "ಯಾವ ಅಧಿಸೂಚನೆಗಳೂ ಇಲ್ಲ"
   
 }
 		

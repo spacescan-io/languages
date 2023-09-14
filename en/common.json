@@ -449,7 +449,7 @@
 "ChiaNFT":"Chia NFT",
 "EnterChiaNFT":"Enter Chia NFT",
 "ChiaPuzzleHash":"Chia Puzzle Hash",
-"EnterChiaAddress":"EnterChiaAddress",
+"EnterChiaAddress":"Enter Chia Address",
 
 "MonitorWallets":"Monitor Wallets",
 "SpacescanAPIs":"Spacescan API's",
@@ -504,7 +504,18 @@
 "NotificationType":"Notification Type",
 "Email":"E-mail",
 "Done":"Done",
-"Getalertgreaterthanthespecifiedamount":"Get alert greater than the specified amount"
+
+"Getalertgreaterthanthespecifiedamount":"Get alert greater than the specified amount",
+"Frequency":"Frequency",
+"Alert":"Alert",
+"DoyouconfirmthatyouwanttostopAssetMonitoring":"Do you confirm that you want to stop Asset Monitoring?",
+"WillstopmonitoringtheaddressonceyouRemoved":"Will stop monitoring the address, once you Removed",
+"Remove":"Remove",
+"NotificationHistory":"Notification History",
+"Monitoringaddress":"Monitoring address :",
+"Transaction":"Transaction",
+"NoNotifications":"No Notifications"
+
 
 
 

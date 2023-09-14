@@ -520,8 +520,16 @@
     "NotificationType": "Tipo de Notificación",
     "Email": "Correo Electrónico",
     "Done": "Hecho",
-    "Getalertgreaterthanthespecifiedamount": "Obtener alertas mayores al monto especificado"
-
+    "Getalertgreaterthanthespecifiedamount": "Obtener alertas mayores al monto especificado",
+    "Frequency": "Frecuencia",
+    "Alert": "Alerta",
+    "DoyouconfirmthatyouwanttostopAssetMonitoring": "¿Confirma que desea detener la vigilancia de activos?",
+    "WillstopmonitoringtheaddressonceyouRemoved": "Se detendrá la vigilancia de la dirección una vez que la haya eliminado",
+    "Remove": "Eliminar",
+    "NotificationHistory": "Historial de notificaciones",
+    "Monitoringaddress": "Dirección de vigilancia:",
+    "Transaction": "Transacción",
+    "NoNotifications": "Sin notificaciones"
   
   
   
