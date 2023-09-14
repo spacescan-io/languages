@@ -512,7 +512,16 @@
     "NotificationType": "ประเภทการแจ้งเตือน",
     "Email": "อีเมล",
     "Done": "เสร็จสิ้น",
-    "Getalertgreaterthanthespecifiedamount": "รับการแจ้งเตือนมากกว่ายอดเงินที่ระบุ"
+    "Getalertgreaterthanthespecifiedamount": "รับการแจ้งเตือนมากกว่ายอดเงินที่ระบุ",
+    "Frequency": "ความถี่",
+    "Alert": "แจ้งเตือน",
+    "DoyouconfirmthatyouwanttostopAssetMonitoring": "คุณยืนยันว่าต้องการหยุดการตรวจสอบทรัพย์สินหรือไม่?",
+    "WillstopmonitoringtheaddressonceyouRemoved": "จะหยุดการตรวจสอบที่อยู่เมื่อคุณลบ",
+    "Remove": "ลบ",
+    "NotificationHistory": "ประวัติการแจ้งเตือน",
+    "Monitoringaddress": "ที่อยู่ในการตรวจสอบ:",
+    "Transaction": "ธุรกรรม",
+    "NoNotifications": "ไม่มีการแจ้งเตือน"
 
   
 

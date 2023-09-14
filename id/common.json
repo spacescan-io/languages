@@ -520,8 +520,16 @@
 	"NotificationType": "Tipe Notifikasi",
 	"Email": "E-mail",
 	"Done": "Selesai",
-	"Getalertgreaterthanthespecifiedamount": "Dapatkan peringatan lebih dari jumlah yang ditentukan"
-  
+	"Getalertgreaterthanthespecifiedamount": "Dapatkan peringatan lebih dari jumlah yang ditentukan",
+	"Frequency": "Frekuensi",
+	"Alert": "Peringatan",
+	"DoyouconfirmthatyouwanttostopAssetMonitoring": "Apakah Anda yakin ingin menghentikan pemantauan aset?",
+	"WillstopmonitoringtheaddressonceyouRemoved": "Akan menghentikan pemantauan alamat begitu Anda menghapusnya",
+	"Remove": "Hapus",
+	"NotificationHistory": "Riwayat Pemberitahuan",
+	"Monitoringaddress": "Alamat Pemantauan:",
+	"Transaction": "Transaksi",
+	"NoNotifications": "Tidak Ada Pemberitahuan"  
   
 }
   

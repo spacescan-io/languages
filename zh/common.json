@@ -526,8 +526,16 @@
 	"NotificationType": "通知类型",
 	"Email": "电子邮件",
 	"Done": "完成",
-	"Getalertgreaterthanthespecifiedamount": "获得超过指定金额的警报"
-  
+	"Getalertgreaterthanthespecifiedamount": "获得超过指定金额的警报",
+	"Frequency": "频率",
+	"Alert": "警报",
+	"DoyouconfirmthatyouwanttostopAssetMonitoring": "您确认要停止资产监控吗？",
+	"WillstopmonitoringtheaddressonceyouRemoved": "一旦您删除了地址，将停止监控该地址",
+	"Remove": "删除",
+	"NotificationHistory": "通知历史",
+	"Monitoringaddress": "监控地址：",
+	"Transaction": "交易",
+	"NoNotifications": "无通知" 
   
 	
 

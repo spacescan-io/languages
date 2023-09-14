@@ -488,8 +488,16 @@
 		"NotificationType": "Type de notification",
 		"Email": "E-mail",
 		"Done": "Terminé",
-		"Getalertgreaterthanthespecifiedamount": "Obtenez une alerte supérieure au montant spécifié"
-
+		"Getalertgreaterthanthespecifiedamount": "Obtenez une alerte supérieure au montant spécifié",
+		"Frequency": "Fréquence",
+		"Alert": "Alerte",
+		"DoyouconfirmthatyouwanttostopAssetMonitoring": "Confirmez-vous que vous souhaitez arrêter la surveillance des actifs ?",
+		"WillstopmonitoringtheaddressonceyouRemoved": "La surveillance de l'adresse sera arrêtée une fois que vous l'aurez supprimée",
+		"Remove": "Supprimer",
+		"NotificationHistory": "Historique des notifications",
+		"Monitoringaddress": "Adresse de surveillance :",
+		"Transaction": "Transaction",
+		"NoNotifications": "Aucune notification"
 	  
 	
 	  

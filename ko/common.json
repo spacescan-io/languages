@@ -512,7 +512,16 @@
 	"NotificationType": "알림 유형",
 	"Email": "이메일",
 	"Done": "완료",
-	"Getalertgreaterthanthespecifiedamount": "지정된 금액보다 큰 알림 받기"
+	"Getalertgreaterthanthespecifiedamount": "지정된 금액보다 큰 알림 받기",
+	"Frequency": "빈도",
+  "Alert": "경고",
+  "DoyouconfirmthatyouwanttostopAssetMonitoring": "자산 모니터링을 중지하시겠습니까?",
+  "WillstopmonitoringtheaddressonceyouRemoved": "주소를 제거하면 모니터링이 중단됩니다",
+  "Remove": "제거",
+  "NotificationHistory": "알림 기록",
+  "Monitoringaddress": "모니터링 주소 :",
+  "Transaction": "거래",
+  "NoNotifications": "알림 없음"
   
   
 }

@@ -513,8 +513,16 @@
     "NotificationType": "నోటిఫికేషన్ రకం",
     "Email": "ఇమెయిల్",
     "Done": "పూర్తి",
-    "Getalertgreaterthanthespecifiedamount": "ప్రదానపు మొత్తం కంటే ఎక్కువ హెచ్చరికను పొందండి"
-  
+    "Getalertgreaterthanthespecifiedamount": "ప్రదానపు మొత్తం కంటే ఎక్కువ హెచ్చరికను పొందండి",
+    "Frequency": "సంవాదం",
+    "Alert": "హెచ్చరిక",
+    "DoyouconfirmthatyouwanttostopAssetMonitoring": "మీరు ఆసెట్ మానిటరింగ్ నిల్వ చేయాలనుకుంటున్నారా?",
+    "WillstopmonitoringtheaddressonceyouRemoved": "మీరు దీన్ని తొలగించాక, మొదటి విళి మార్పడుతుంది",
+    "Remove": "తొలగించు",
+    "NotificationHistory": "నోటిఫికేషన్ చరిత్ర",
+    "Monitoringaddress": "మానిటరింగ్ చిరునామా:",
+    "Transaction": "లావాదారి",
+    "NoNotifications": "నోటిఫికేషన్‌లు లేవు" 
   
 
 }

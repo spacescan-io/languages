@@ -508,7 +508,17 @@
 	"NotificationType": "Benachrichtigungsart",
 	"Email": "E-Mail",
 	"Done": "Fertig",
-	"Getalertgreaterthanthespecifiedamount": "Erhalten Sie eine Warnung über den angegebenen Betrag hinaus"
+	"Getalertgreaterthanthespecifiedamount": "Erhalten Sie eine Warnung über den angegebenen Betrag hinaus",
+		"Frequency": "Frequenz",
+		"Alert": "Warnung",
+		"DoyouconfirmthatyouwanttostopAssetMonitoring": "Bestätigen Sie, dass Sie die Überwachung der Vermögenswerte beenden möchten?",
+		"WillstopmonitoringtheaddressonceyouRemoved": "Die Überwachung der Adresse wird beendet, sobald Sie sie entfernt haben",
+		"Remove": "Entfernen",
+		"NotificationHistory": "Benachrichtigungsverlauf",
+		"Monitoringaddress": "Überwachungsadresse:",
+		"Transaction": "Transaktion",
+		"NoNotifications": "Keine Benachrichtigungen"
+	  
   
   
 
