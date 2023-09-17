@@ -495,5 +495,7 @@
 	"NotificationHistory": "알림 기록",
 	"Monitoringaddress": "모니터링 주소 :",
 	"Transaction": "거래",
-	"NoNotifications": "알림 없음"
+	"NoNotifications": "알림 없음",
+	"Collected":"수집됨",
+	"Created":"생성됨"
 }
