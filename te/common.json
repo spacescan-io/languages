@@ -495,5 +495,7 @@
     "NotificationHistory": "నోటిఫికేషన్ చరిత్ర",
     "Monitoringaddress": "మానిటరింగ్ చిరునామా:",
     "Transaction": "లావాదారి",
-    "NoNotifications": "నోటిఫికేషన్‌లు లేవు"
+    "NoNotifications": "నోటిఫికేషన్‌లు లేవు",
+    "Collected":"సముద్రించబడింది",
+    "Created":"సృష్టించబడింది"
 }

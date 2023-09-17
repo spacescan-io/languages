@@ -493,5 +493,7 @@
 	"NotificationHistory": "Riwayat Pemberitahuan",
 	"Monitoringaddress": "Alamat Pemantauan:",
 	"Transaction": "Transaksi",
-	"NoNotifications": "Tidak Ada Pemberitahuan"
+	"NoNotifications": "Tidak Ada Pemberitahuan",
+	"Collected":"Dikumpulkan",
+	"Created":"Dibuat"
 }

@@ -495,5 +495,7 @@
   "NotificationHistory": "Historial de notificaciones",
   "Monitoringaddress": "Dirección de vigilancia:",
   "Transaction": "Transacción",
-  "NoNotifications": "Sin notificaciones"
+  "NoNotifications": "Sin notificaciones",
+  "Collected":"Recopilado",
+  "Created":"Creado"
 }

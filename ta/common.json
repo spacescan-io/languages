@@ -494,5 +494,7 @@
     "NotificationHistory": "அறிவிப்பு வரலாறு",
     "Monitoringaddress": "கணிக்கீடு முகவரி:",
     "Transaction": "பரிவர்த்தனை",
-    "NoNotifications": "அறிவிப்புகள் இல்லை"
+    "NoNotifications": "அறிவிப்புகள் இல்லை",
+    "Collected":"சேகரிக்கப்பட்டது",
+    "Created":"உருவாக்கப்பட்டது"
 }

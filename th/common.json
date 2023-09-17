@@ -494,5 +494,7 @@
   "NotificationHistory": "ประวัติการแจ้งเตือน",
   "Monitoringaddress": "ที่อยู่ในการตรวจสอบ:",
   "Transaction": "ธุรกรรม",
-  "NoNotifications": "ไม่มีการแจ้งเตือน"
+  "NoNotifications": "ไม่มีการแจ้งเตือน",
+  "Collected":"รวบรวม",
+  "Created":"สร้าง"
 }

@@ -494,5 +494,7 @@
 	"NotificationHistory": "Historique des notifications",
 	"Monitoringaddress": "Adresse de surveillance :",
 	"Transaction": "Transaction",
-	"NoNotifications": "Aucune notification"
+	"NoNotifications": "Aucune notification",
+	"Collected":"Collecté",
+"Created":"Créé"
 }

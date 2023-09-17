@@ -496,5 +496,7 @@
 	"NotificationHistory": "Benachrichtigungsverlauf",
 	"Monitoringaddress": "Überwachungsadresse:",
 	"Transaction": "Transaktion",
-	"NoNotifications": "Keine Benachrichtigungen"
+	"NoNotifications": "Keine Benachrichtigungen",
+	"Collected": "Gesammelt",
+	"Created": "Erstellt"
 }

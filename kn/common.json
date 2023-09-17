@@ -493,5 +493,7 @@
 	"NotificationHistory": "ಅಧಿಸೂಚನಾ ಇತಿಹಾಸ",
 	"Monitoringaddress": "ನಿಗದಿಪಟ್ಟ ವಿಳಾಸ:",
 	"Transaction": "ಲಾವಾದಾರಿ",
-	"NoNotifications": "ಯಾವ ಅಧಿಸೂಚನೆಗಳೂ ಇಲ್ಲ"
+	"NoNotifications": "ಯಾವ ಅಧಿಸೂಚನೆಗಳೂ ಇಲ್ಲ",
+	"Collected":"ಸಂಗ್ರಹಿಸಲಾಗಿದೆ",
+	"Created":"ರಚಿಸಲಾಗಿದೆ"
 }

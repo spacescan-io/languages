@@ -495,5 +495,7 @@
 	"NotificationHistory": "通知历史",
 	"Monitoringaddress": "监控地址：",
 	"Transaction": "交易",
-	"NoNotifications": "无通知"
+	"NoNotifications": "无通知",
+	"Collected":"已收集",
+	"Created":"已创建"
 }
