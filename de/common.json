@@ -498,5 +498,6 @@
 	"Transaction": "Transaktion",
 	"NoNotifications": "Keine Benachrichtigungen",
 	"Collected": "Gesammelt",
-	"Created": "Erstellt"
+	"Created": "Erstellt",
+	"P2PChiaOffers": "+ P2P Chia Angebote"
 }

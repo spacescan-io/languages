@@ -497,5 +497,6 @@
 	"Transaction": "交易",
 	"NoNotifications": "无通知",
 	"Collected":"已收集",
-	"Created":"已创建"
+	"Created":"已创建",
+	"P2PChiaOffers": "+  P2P Chia 报价"
 }

@@ -496,5 +496,6 @@
     "Transaction": "பரிவர்த்தனை",
     "NoNotifications": "அறிவிப்புகள் இல்லை",
     "Collected":"சேகரிக்கப்பட்டது",
-    "Created":"உருவாக்கப்பட்டது"
+    "Created":"உருவாக்கப்பட்டது",
+	"P2PChiaOffers": "+  P2P சியா சலுகைகள்"
 }
