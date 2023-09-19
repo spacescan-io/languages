@@ -495,5 +495,6 @@
 	"Transaction": "Transaksi",
 	"NoNotifications": "Tidak Ada Pemberitahuan",
 	"Collected":"Dikumpulkan",
-	"Created":"Dibuat"
+	"Created":"Dibuat",
+	"P2PChiaOffers": "+ Penawaran P2P Chia"
 }

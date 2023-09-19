@@ -497,5 +497,6 @@
   "Transaction": "Transacción",
   "NoNotifications": "Sin notificaciones",
   "Collected":"Recopilado",
-  "Created":"Creado"
+  "Created":"Creado",
+	"P2PChiaOffers": "+  Ofertas P2P Chia"
 }

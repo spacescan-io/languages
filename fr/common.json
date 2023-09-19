@@ -495,6 +495,7 @@
 	"Monitoringaddress": "Adresse de surveillance :",
 	"Transaction": "Transaction",
 	"NoNotifications": "Aucune notification",
-	"Collected":"Collecté",
-"Created":"Créé"
+	"Collected": "Collecté",
+	"Created": "Créé",
+	"P2PChiaOffers": "+Offres P2P Chia"
 }

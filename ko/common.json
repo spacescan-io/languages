@@ -497,5 +497,6 @@
 	"Transaction": "거래",
 	"NoNotifications": "알림 없음",
 	"Collected":"수집됨",
-	"Created":"생성됨"
+	"Created":"생성됨",
+	"P2PChiaOffers": "+  Ofertas P2P Chia"
 }

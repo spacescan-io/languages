@@ -496,5 +496,6 @@
   "Transaction": "ธุรกรรม",
   "NoNotifications": "ไม่มีการแจ้งเตือน",
   "Collected":"รวบรวม",
-  "Created":"สร้าง"
+  "Created":"สร้าง",
+	"P2PChiaOffers": "+  ข้อเสนอ P2P Chia"
 }
