@@ -417,7 +417,7 @@
 	"ChiaPuzleHash": "Chia Puzle Hash",
 	"PuzzleHashAddress": "Puzzle Hash Address",
 	"ClearData": "Clear Data",
-	"ParentCoinName": "ParentCoinName",
+	"ParentCoinName": "Parent Coin Name",
 	"XCHAmount": "XCH Amount",
 	"CoinName": "Coin Name",
 	"EnterPuzzleHashAddress": "Enter Puzzle Hash Address",
@@ -496,5 +496,29 @@
 	"Transaction": "Transaction",
 	"NoNotifications": "No Notifications",
 	"Collected":"Collected",
-	"Created":"Created"
+	"Created":"Created",
+	"LearnMore":"Learn More",
+	"ManageyourcollectionsofuniqueNFTstoshareandsell":"Manage your collections of unique NFTs to share and sell.",
+	"EnterTokenID":"Enter Token ID",
+	"ManageyourTokens":"Manage your Tokens.",
+	"ImportYourTokens":"Import Your Tokens",
+	"SignIn": "Login",
+	"SignOut": "Logout",
+	"UploadOffer":"Upload Offer",
+	"SubmitOffer":"Submit Offer",
+	"UploadYourChiaOffers":"Upload Your Chia Offers",
+	"Uploadmultipleofferinazipfile":"Upload multiple offer in a .zip file",
+	"NoteUploadmultipleofferinazipfile":"Note: Upload multiple offer in a .zip file",
+	"Dropyourofferfileorclicktoselectafile":"Drop your offer file, or click to select a file,",
+	"PasteOffer":"Paste Offer",
+	"BulkUploadzip":"Bulk Upload (.zip) ",
+	"ChiaOfferDetails":"Chia Offer Details",
+	"OfferID":"Offer ID :",
+	"DownloadOffer":"Download Offer",
+	"Offered":"Offered",
+	"Requested":"Requested"
+	
+
+
+
 }
