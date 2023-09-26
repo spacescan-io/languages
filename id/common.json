@@ -535,5 +535,9 @@
 	"BacktoSignIn": "Kembali ke Masuk",
 	"EnterNewPassword": "Masukkan Kata Sandi Baru",
 	"ConfirmPassword": "Konfirmasi Kata Sandi",
-	"P2PChiaOffers": "+ Penawaran P2P Chia"
+	"P2PChiaOffers": "+ Penawaran P2P Chia",
+	"Forgotpassword": "Lupa kata sandi",
+	"PleaseprovidePassword": "Harap masukkan kata sandi Anda",
+	"Bycontinuingyouagreetospacescanio": "Dengan melanjutkan, Anda menyetujui spacescan.io",
+	"Or": "Atau"
 }

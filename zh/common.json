@@ -537,5 +537,9 @@
 	"BacktoSignIn": "返回登录页面",
 	"EnterNewPassword": "输入新密码",
 	"ConfirmPassword": "确认密码",
-	"P2PChiaOffers": "+  P2P Chia 报价"
+	"P2PChiaOffers": "+  P2P Chia 报价",
+	"Forgotpassword": "忘记密码",
+	"PleaseprovidePassword": "请输入密码",
+	"Bycontinuingyouagreetospacescanio": "继续即表示您同意 spacescan.io 的条款",
+	"Or": "或"
 }

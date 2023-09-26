@@ -498,10 +498,10 @@
 	"Collected": "Собрано",
 	"Created": "Создано",
 	"LearnMore": "Узнать больше",
-    "Manage your collections of unique NFTs to share and sell.": "Управляйте своими коллекциями уникальных NFT для обмена и продажи.",
-    "Enter Token ID": "Введите идентификатор токена",
-    "Manage your Tokens": "Управляйте своими токенами.",
-    "Import Your Tokens": "Импортируйте свои токены.",
+	"Manage your collections of unique NFTs to share and sell.": "Управляйте своими коллекциями уникальных NFT для обмена и продажи.",
+	"Enter Token ID": "Введите идентификатор токена",
+	"Manage your Tokens": "Управляйте своими токенами.",
+	"Import Your Tokens": "Импортируйте свои токены.",
 	"SignIn": "Вход",
 	"SignOut": "Выход",
 	"UploadOffer": "Загрузить предложение",
@@ -536,5 +536,9 @@
 	"BacktoSignIn": "Вернуться к входу",
 	"EnterNewPassword": "Введите новый пароль",
 	"ConfirmPassword": "Подтвердите пароль",
-	"P2PChiaOffers": "+ P2P Предложения Chia"
+	"P2PChiaOffers": "+ P2P Предложения Chia",
+	"Forgotpassword": "Забыли пароль",
+	"PleaseprovidePassword": "Пожалуйста, введите пароль",
+	"Bycontinuingyouagreetospacescanio": "Продолжая, вы соглашаетесь с условиями spacescan.io",
+	"Or": "Или"
 }

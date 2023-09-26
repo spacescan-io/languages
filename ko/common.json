@@ -537,5 +537,9 @@
 	"BacktoSignIn": "로그인으로 돌아가기",
 	"EnterNewPassword": "새 비밀번호 입력",
 	"ConfirmPassword": "비밀번호 확인",
-	"P2PChiaOffers": "+  Ofertas P2P Chia"
+	"P2PChiaOffers": "+  Ofertas P2P Chia",
+	"Forgotpassword": "비밀번호를 잊으셨나요?",
+	"PleaseprovidePassword": "비밀번호를 입력하세요",
+	"Bycontinuingyouagreetospacescanio": "계속 진행하면 spacescan.io의 약관에 동의하는 것입니다",
+	"Or": "또는"
 }

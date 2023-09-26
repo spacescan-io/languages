@@ -537,5 +537,9 @@
     "BacktoSignIn": "లాగిన్ పేజీకి తిరిగి వెళ్ళండి",
     "EnterNewPassword": "కొత్త పాస్వర్డ్‌ను నమోదు చేయండి",
     "ConfirmPassword": "పాస్వర్డ్‌ను నిర్ధారించండి",
-    "P2PChiaOffers": "+  P2P చియా ఆఫర్లు"
+    "P2PChiaOffers": "+  P2P చియా ఆఫర్లు",
+    "Forgotpassword": "పాస్‌వర్డ్‌ను మర్చిపోయారు",
+    "PleaseprovidePassword": "దయచేసి పాస్‌వర్డ్‌ను అందించండి",
+    "Bycontinuingyouagreetospacescanio": "కొనసాగడానికి, మీరు spacescan.io ని ఆమోదిస్తున్నారని మీరు నమ్మకము చేస్తున్నారు",
+    "Or": "లేదా"
 }
