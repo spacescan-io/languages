@@ -518,4 +518,8 @@
 	"DownloadOffer": "下载报价",
 	"Offered": "已提供",
 	"Requested": "已请求"
+	"Collected":"已收集",
+	"Created":"已创建",
+	"P2PChiaOffers": "+  P2P Chia 报价"
+
 }

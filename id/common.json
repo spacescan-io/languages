@@ -494,6 +494,7 @@
 	"Monitoringaddress": "Alamat Pemantauan:",
 	"Transaction": "Transaksi",
 	"NoNotifications": "Tidak Ada Pemberitahuan",
+
 	"Collected": "Dikumpulkan",
 	"Created": "Dibuat",
 	"LearnMore": "Pelajari Lebih Lanjut",
@@ -516,4 +517,9 @@
 	"DownloadOffer": "Unduh Penawaran",
 	"Offered": "Ditawarkan",
 	"Requested": "Diminta"
+
+	"Collected":"Dikumpulkan",
+	"Created":"Dibuat",
+	"P2PChiaOffers": "+ Penawaran P2P Chia"
+
 }

@@ -496,6 +496,7 @@
 	"NoNotifications": "ಯಾವ ಅಧಿಸೂಚನೆಗಳೂ ಇಲ್ಲ",
 	"Collected":"ಸಂಗ್ರಹಿಸಲಾಗಿದೆ",
 	"Created":"ರಚಿಸಲಾಗಿದೆ",
+
 	"LearnMore": "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ",
 	"ManageyourcollectionsofuniqueNFTstoshareandsell": "ನೀವು ಹಂಚಿಕೊಳ್ಳುವ ವಿಶಿಷ್ಟ NFT ಸಂಗ್ರಹಗಳನ್ನು ನಿರ್ವಹಿಸಿ ಹಂಚಿಕೊಳ್ಳಲು ನೀವು ಬಳಸಬಹುದು ಮತ್ತು ಮಾರಬಹುದು.",
 	"EnterTokenID": "ಟೋಕನ್ ಐಡಿ ನಮೋದಿಸಿ",
@@ -516,4 +517,7 @@
 	"DownloadOffer": "ಆಫರ್‌ನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ",
 	"Offered": "ಆಫರ್ ಮಾಡಲಾಗಿದೆ",
 	"Requested": "ಅಭ್ಯರ್ಥಿಸಲಾಗಿದೆ"
+
+	"P2PChiaOffers": "+  P2P ಚಿಯಾ ಸಿಗುವಿಕೆಗಳು"
+
 }
