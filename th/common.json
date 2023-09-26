@@ -535,5 +535,6 @@
   "PleaseprovideEmail": "โปรดระบุที่อยู่อีเมล",
   "BacktoSignIn": "กลับไปที่หน้าลงชื่อเข้าใช้",
   "EnterNewPassword": "ป้อนรหัสผ่านใหม่",
-  "ConfirmPassword": "ยืนยันรหัสผ่าน"
+  "ConfirmPassword": "ยืนยันรหัสผ่าน",
+  "P2PChiaOffers": "+  ข้อเสนอ P2P Chia"
 }

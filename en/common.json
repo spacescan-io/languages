@@ -535,5 +535,6 @@
 	"PleaseprovideEmail":"Please provide Email",
 	"BacktoSignIn":"Back to Sign In",
 	"EnterNewPassword":"Enter New Password",
-	"ConfirmPassword":"Confirm Password"
+	"ConfirmPassword":"Confirm Password",
+	"P2PChiaOffers": "+ P2P Chia Offers"
 }

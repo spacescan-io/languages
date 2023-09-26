@@ -535,5 +535,6 @@
 	"PleaseprovideEmail": "Veuillez fournir une adresse e-mail",
 	"BacktoSignIn": "Retour à la connexion",
 	"EnterNewPassword": "Entrez un nouveau mot de passe",
-	"ConfirmPassword": "Confirmez le mot de passe"
+	"ConfirmPassword": "Confirmez le mot de passe",
+	"P2PChiaOffers": "+Offres P2P Chia"
 }

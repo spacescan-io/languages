@@ -535,5 +535,6 @@
 	"PleaseprovideEmail": "Пожалуйста, укажите адрес электронной почты",
 	"BacktoSignIn": "Вернуться к входу",
 	"EnterNewPassword": "Введите новый пароль",
-	"ConfirmPassword": "Подтвердите пароль"
+	"ConfirmPassword": "Подтвердите пароль",
+	"P2PChiaOffers": "+ P2P Предложения Chia"
 }
