@@ -499,9 +499,9 @@
 	"Created": "Создано",
 	"LearnMore": "Узнать больше",
 	"ManageyourcollectionsofuniqueNFTstoshareandsell": "Управляйте своими коллекциями уникальных NFT для обмена и продажи.",
-	"Enter Token ID": "Введите идентификатор токена",
-	"Manage your Tokens": "Управляйте своими токенами.",
-	"Import Your Tokens": "Импортируйте свои токены.",
+	"EnterTokenID": "Введите идентификатор токена",
+	"ManageyourTokens": "Управляйте своими токенами.",
+	"ImportYourTokens": "Импортируйте свои токены.",
 	"SignIn": "Вход",
 	"SignOut": "Выход",
 	"UploadOffer": "Загрузить предложение",
@@ -541,4 +541,8 @@
 	"PleaseprovidePassword": "Пожалуйста, введите пароль",
 	"Bycontinuingyouagreetospacescanio": "Продолжая, вы соглашаетесь с условиями spacescan.io",
 	"Or": "Или"
+
+
+
+	
 }
