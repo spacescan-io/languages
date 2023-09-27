@@ -536,5 +536,9 @@
 	"BacktoSignIn": "Retour à la connexion",
 	"EnterNewPassword": "Entrez un nouveau mot de passe",
 	"ConfirmPassword": "Confirmez le mot de passe",
-	"P2PChiaOffers": "+Offres P2P Chia"
+	"P2PChiaOffers": "+Offres P2P Chia",
+	"Forgotpassword": "Mot de passe oublié",
+	"PleaseprovidePassword": "Veuillez fournir le mot de passe",
+	"Bycontinuingyouagreetospacescanio": "En continuant, vous acceptez spacescan.io",
+	"Or": "Ou"
 }

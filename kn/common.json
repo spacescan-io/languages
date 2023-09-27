@@ -494,8 +494,8 @@
 	"Monitoringaddress": "ನಿಗದಿಪಟ್ಟ ವಿಳಾಸ:",
 	"Transaction": "ಲಾವಾದಾರಿ",
 	"NoNotifications": "ಯಾವ ಅಧಿಸೂಚನೆಗಳೂ ಇಲ್ಲ",
-	"Collected":"ಸಂಗ್ರಹಿಸಲಾಗಿದೆ",
-	"Created":"ರಚಿಸಲಾಗಿದೆ",
+	"Collected": "ಸಂಗ್ರಹಿಸಲಾಗಿದೆ",
+	"Created": "ರಚಿಸಲಾಗಿದೆ",
 	"LearnMore": "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ",
 	"ManageyourcollectionsofuniqueNFTstoshareandsell": "ನೀವು ಹಂಚಿಕೊಳ್ಳುವ ವಿಶಿಷ್ಟ NFT ಸಂಗ್ರಹಗಳನ್ನು ನಿರ್ವಹಿಸಿ ಹಂಚಿಕೊಳ್ಳಲು ನೀವು ಬಳಸಬಹುದು ಮತ್ತು ಮಾರಬಹುದು.",
 	"EnterTokenID": "ಟೋಕನ್ ಐಡಿ ನಮೋದಿಸಿ",
@@ -535,5 +535,9 @@
 	"BacktoSignIn": "ಲಾಗಿನ್ ಮಾಡಲು ಹಿಂತಿರುಗಿ",
 	"EnterNewPassword": "ಹೊಸ ಪಾಸ್‌ವರ್ಡ್ ನಮೂದಿಸಿ",
 	"ConfirmPassword": "ಪಾಸ್‌ವರ್ಡ್ ದೃಢಿಪ್ಪಂಕಲ್ಲಿಸಿ",
-	"P2PChiaOffers": "+  P2P ಚಿಯಾ ಸಿಗುವಿಕೆಗಳು"
+	"P2PChiaOffers": "+  P2P ಚಿಯಾ ಸಿಗುವಿಕೆಗಳು",
+	"Forgotpassword": "ಪಾಸ್‌ವರ್ಡ್ ಮರೆತುಹೋಯಿರಿ",
+	"PleaseprovidePassword": "ದಯವಿಟ್ಟು ಪಾಸ್‌ವರ್ಡ್ ನೀಡಿ",
+	"Bycontinuingyouagreetospacescanio": "ಮುಂಚೆ ಬದುಕಿರುವುದು, ನೀವು spacescan.io ಗೆ ಒಪ್ಪಿಗೆ ನೀಡುತ್ತೀರಿ",
+	"Or": "ಅಥವಾ"
 }
