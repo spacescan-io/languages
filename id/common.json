@@ -189,7 +189,7 @@
 	"Blocks": "Blok",
 	"Time": "Waktu",
 	"TXN": "Transaksi",
-	"Pool": "Kolam renang",
+	"Pool": "Pool",
 	"Weight": "Berat",
 	"Block": "Blokir",
 	"TXBlock": "Blok TX",
@@ -197,8 +197,8 @@
 	"ConfirmedBlock": "Blok yang Dikonfirmasi",
 	"Item": "Item",
 	"TransactionType": "Jenis transaksi",
-	"CreatorDID": "Pencipta DID",
-	"FloorPrice": "Harga Lantai",
+	"CreatorDID": "DID Pencipta",
+	"FloorPrice": "Harga Bawah",
 	"TotalVolume": "Total Volume",
 	"Royalty": "Royalti",
 	"Traders": "Pedagang",
@@ -309,7 +309,7 @@
 	"RewardChainSubBlock": "Sub Blok Rantai Penghargaan",
 	"Height": "Tinggi badan",
 	"TotalIterations": "Total Iterasi",
-	"ProofofSpace": "Bukti Ruang Angkasa",
+	"ProofofSpace": "Bukti Ruang",
 	"ProofofSpaceSize": "Bukti Ukuran Ruang",
 	"AmountXCH": "Jumlah (XCH)",
 	"NoAdditions": "Tidak Ada Penambahan",
@@ -477,7 +477,7 @@
 	"Alerts": "Peringatan",
 	"XCHTransactionAlert": "Peringatan Transaksi XCH",
 	"MinimumAmount": "Jumlah Minimum",
-	"Spend": "Beli",
+	"Spend": "Beri",
 	"Receive": "Terima",
 	"NFTAlert": "Peringatan NFT",
 	"CATAlert": "Peringatan CAT",
@@ -539,6 +539,7 @@
 	"Forgotpassword": "Lupa kata sandi",
 	"PleaseprovidePassword": "Harap masukkan kata sandi Anda",
 	"Bycontinuingyouagreetospacescanio": "Dengan melanjutkan, Anda menyetujui spacescan.io",
+
 	"Or": "Atau",
 	"Charts": "Grafik",
 	"Netspace": "Ruang Jaringan",
@@ -607,3 +608,4 @@
 	"andthetradingvolumeforChiais": "dan volume perdagangan untuk Chia adalah",
 	"ItsworthnotingthatthealltimehighforChiasnetspaceis": "Perlu dicatat bahwa rekor tertinggi sepanjang masa untuk Netspace Chia adalah"
 }
+
