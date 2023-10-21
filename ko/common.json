@@ -608,5 +608,11 @@
 	"TheChiamarketcapitalisationstandsat": "Chia 시장 자본화는 다음과 같이 있습니다:",
 	"andthetradingvolumeforChiais": "Chia 거래량은 다음과 같습니다:",
 	"ItsworthnotingthatthealltimehighforChiasnetspaceis": "Chia 넷스페이스의 역대 최고치는 다음과 같습니다:",
-	"ItsworthnotingthatthealltimehighforChiaspriceis ":"치아 가격의 역대 최고치는 다음과 같이 기록되어 있습니다 "
+	"ItsworthnotingthatthealltimehighforChiaspriceis ":"치아 가격의 역대 최고치는 다음과 같이 기록되어 있습니다 ",
+	"ChiaNetspaceGrowthSummary": "Chia 넷스페이스 성장 요약",
+    "ChiaXCHCATVolumeChart": "Chia(XCH) CAT 볼륨 차트",
+    "ChiaXCHCATTradeChart": "Chia(XCH) CAT 거래 차트",
+    "ChiaXCHCAT2TransactionsAmount": "Chia(XCH) CAT2 거래 금액",
+    "ChiaXCHCAT2Transactions": "Chia(XCH) CAT2 거래",
+	"OverthepastChiaNFTTradereachedahighof": "지난 며칠 동안 Chia NFT Trade가 최고치를 기록했습니다:"
 }
