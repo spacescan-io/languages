@@ -580,6 +580,7 @@
   "OverthepastChiasmempoolremovalsreachedahighof ": "En el pasado, las eliminaciones de Mempool de Chia alcanzaron un máximo de",
   "ItsworthnotingthatthealltimehighforChiasmempoolremovalsis": "Vale la pena mencionar que el máximo histórico de las eliminaciones de Mempool de Chia es de",
   "ChiaXCHMempoolCostChart": "Gráfico de costo de Mempool de Chia (XCH)",
+  "OverthepastChiaNFTTradereachedahighof": "En los últimos días, Chia NFT Trade alcanzó un máximo de",
   "ChiaMempoolCostHighlights": "Aspectos destacados de costo de Mempool de Chia",
   "ChiaMempoolCostSummary": "Resumen de costo de Mempool de Chia",
   "OverthepastChiasmempoolcostreachedahighof": "En el pasado, el costo de Mempool de Chia alcanzó un máximo de",
@@ -608,5 +609,10 @@
   "TheChiamarketcapitalisationstandsat": "La capitalización de mercado de Chia se sitúa en",
   "andthetradingvolumeforChiais": "y el volumen de negociación para Chia es",
   "ItsworthnotingthatthealltimehighforChiasnetspaceis": "Vale la pena destacar que el máximo histórico para el Netspace de Chia es",
-  "ItsworthnotingthatthealltimehighforChiaspriceis ":"Vale la pena señalar que el máximo histórico del precio de Chia es "
+  "ItsworthnotingthatthealltimehighforChiaspriceis ":"Vale la pena señalar que el máximo histórico del precio de Chia es ",
+  "ChiaNetspaceGrowthSummary": "Resumen del Crecimiento del Espacio de Chia",
+  "ChiaXCHCATVolumeChart": "Gráfico de Volumen de Chia(XCH) CAT",
+  "ChiaXCHCATTradeChart": "Gráfico de Comercio de Chia(XCH) CAT",
+  "ChiaXCHCAT2TransactionsAmount": "Monto de Transacciones CAT2 de Chia(XCH)",
+  "ChiaXCHCAT2Transactions": "Transacciones CAT2 de Chia(XCH)"
 }

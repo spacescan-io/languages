@@ -624,5 +624,10 @@
 	"ChiaPriceHighlights": "Chia 价格亮点",
 	"ChiaPriceSummary": "Chia 价格摘要",
 	"AsofthelatestavailabledatathepriceofChiaXCHiscurrentlyat": "根据最新可用的数据，Chia (XCH) 的价格目前为",
-	"ItsworthnotingthatthealltimehighforChiaspriceis": "值得注意的是，Chia 的价格的历史最高值为"
+	"ItsworthnotingthatthealltimehighforChiaspriceis": "值得注意的是，Chia 的价格的历史最高值为",
+	"ChiaNetspaceGrowthSummary": "Chia 网络空间增长摘要",
+    "ChiaXCHCATVolumeChart": "Chia(XCH) CAT 交易量图表",
+    "ChiaXCHCATTradeChart": "Chia(XCH) CAT 交易图表",
+    "ChiaXCHCAT2TransactionsAmount": "Chia(XCH) CAT2 交易金额",
+    "ChiaXCHCAT2Transactions": "Chia(XCH) CAT2 交易"
 }
