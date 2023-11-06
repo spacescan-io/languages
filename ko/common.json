@@ -614,5 +614,14 @@
     "ChiaXCHCATTradeChart": "Chia(XCH) CAT 거래 차트",
     "ChiaXCHCAT2TransactionsAmount": "Chia(XCH) CAT2 거래 금액",
     "ChiaXCHCAT2Transactions": "Chia(XCH) CAT2 거래",
-	"OverthepastChiaNFTTradereachedahighof": "지난 며칠 동안 Chia NFT Trade가 최고치를 기록했습니다:"
+	"OverthepastChiaNFTTradereachedahighof": "지난 며칠 동안 Chia NFT Trade가 최고치를 기록했습니다:",
+	"BlockChain": "블록체인",
+    "LatestTxns": "최신 거래",
+    "TopAccounts": "상위 계정",
+    "NFT": "NFT",
+    "Ranks": "순위",
+    "Activities": "활동",
+    "ChiaTopAccounts": "Chia 최상위 계정",
+    "BalanceUSD": "잔고 (USD)",
+    "percentofCoins": "코인의 %"
 }

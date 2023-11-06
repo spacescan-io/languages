@@ -314,7 +314,7 @@
     "TotalIterations": "మొత్తం పునరావృత్తులు",
     "ProofofSpace": "స్థలం యొక్క రుజువు",
     "ProofofSpaceSize": "స్థలం పరిమాణం యొక్క రుజువు",
-    "Amount(XCH)": "మొత్తం (XCH)",
+    "AmountXCH": "మొత్తం (XCH)",
     "NoAdditions": "చేర్పులు లేవు",
     "NoRemovals": "తొలగింపులు లేవు",
     "NoRewards": "రివార్డులు లేవు",
@@ -629,5 +629,14 @@
     "ChiaXCHCATVolumeChart": "Chia(XCH) CAT பருவம் விளக்கம்",
     "ChiaXCHCATTradeChart": "Chia(XCH) CAT வர்த்தக விளக்கம்",
     "ChiaXCHCAT2TransactionsAmount": "Chia(XCH) CAT2 பருவம் தொழில்நுட்பம்",
-    "ChiaXCHCAT2Transactions": "Chia(XCH) CAT2 பருவம் வர்த்தகம்"
+    "ChiaXCHCAT2Transactions": "Chia(XCH) CAT2 பருவம் வர்த்தகம்",
+    "BlockChain": "బ్లాక్చెయిన్",
+    "LatestTxns": "తాజా లావాదులు",
+    "TopAccounts": "ముఖ్య ఖాతాలు",
+    "NFT": "NFT",
+    "Ranks": "రెంకులు",
+    "Activities": "కార్యకలాపాలు",
+    "ChiaTopAccounts": "చియా ముఖ్య ఖాతాలు",
+    "BalanceUSD": "శేషం (USD)",
+    "percentofCoins": "కాయినుల శాతం"
 }

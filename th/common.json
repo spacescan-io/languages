@@ -312,7 +312,7 @@
   "TotalIterations": "การวนซ้ำทั้งหมด",
   "ProofofSpace": "หลักฐานของอวกาศ",
   "ProofofSpaceSize": "พิสูจน์ขนาดพื้นที่",
-  "Amount(XCH)": "จำนวน (XCH)",
+  "AmountXCH": "จำนวน (XCH)",
   "NoAdditions": "ไม่มีการเพิ่ม",
   "NoRemovals": "ไม่มีการลบ",
   "NoRewards": "ไม่มีรางวัล",
@@ -628,5 +628,14 @@
   "ChiaXCHCATVolumeChart": "กราฟราคา Chia(XCH) CAT",
   "ChiaXCHCATTradeChart": "กราฟการซื้อขาย Chia(XCH) CAT",
   "ChiaXCHCAT2TransactionsAmount": "จำนวนธุรกรรม CAT2 ของ Chia(XCH)",
-  "ChiaXCHCAT2Transactions": "ธุรกรรม CAT2 ของ Chia(XCH)"
+  "ChiaXCHCAT2Transactions": "ธุรกรรม CAT2 ของ Chia(XCH)",
+  "BlockChain": "บล็อกเชน",
+  "LatestTxns": "ธุรกรรมล่าสุด",
+  "TopAccounts": "บัญชียอดนิยม",
+  "NFT": "NFT",
+  "Ranks": "อันดับ",
+  "Activities": "กิจกรรม",
+  "ChiaTopAccounts": "บัญชียอดนิยมของ Chia",
+  "BalanceUSD": "ยอดคงเหลือ (USD)",
+  "percentofCoins": "% ของเหรียญ"
 }

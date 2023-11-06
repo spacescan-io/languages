@@ -613,6 +613,15 @@
     "ChiaXCHCATTradeChart": "Grafik Perdagangan CAT Chia(XCH)",
     "ChiaXCHCAT2TransactionsAmount": "Jumlah Transaksi CAT2 Chia(XCH)",
     "ChiaXCHCAT2Transactions": "Transaksi CAT2 Chia(XCH)",
-	"OverthepastChiaNFTTradereachedahighof": "Dalam beberapa hari terakhir, Chia NFT Trade mencapai puncak sebesar"
+	"OverthepastChiaNFTTradereachedahighof": "Dalam beberapa hari terakhir, Chia NFT Trade mencapai puncak sebesar",
+	"BlockChain": "Rantai Blok",
+    "LatestTxns": "Transaksi Terbaru",
+    "TopAccounts": "Akun Teratas",
+    "NFT": "NFT",
+    "Ranks": "Peringkat",
+    "Activities": "Aktivitas",
+    "ChiaTopAccounts": "Akun Teratas Chia",
+    "BalanceUSD": "Saldo (USD)",
+    "percentofCoins": "% dari Koin"
 }
 

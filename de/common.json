@@ -615,5 +615,14 @@
 	"ChiaXCHCATVolumeChart": "Chia(XCH) CAT Volumendiagramm",
 	"ChiaXCHCATTradeChart": "Chia(XCH) CAT Handelsdiagramm",
 	"ChiaXCHCAT2TransactionsAmount": "Chia(XCH) CAT2 Transaktionsbetrag",
-	"ChiaXCHCAT2Transactions": "Chia(XCH) CAT2 Transaktionen"
+	"ChiaXCHCAT2Transactions": "Chia(XCH) CAT2 Transaktionen",
+	"BlockChain": "Blockkette",
+    "LatestTxns": "Neueste Transaktionen",
+    "TopAccounts": "Top-Konten",
+    "NFT": "Nicht fungibles Token",
+    "Ranks": "Ränge",
+    "Activities": "Aktivitäten",
+    "ChiaTopAccounts": "Chia Top-Konten",
+    "BalanceUSD": "Guthaben (USD)",
+    "percentofCoins": "% der Münzen"
 }

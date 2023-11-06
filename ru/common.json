@@ -613,5 +613,14 @@
     "ChiaXCHCATTradeChart": "График торговли CAT Chia(XCH)",
     "ChiaXCHCAT2TransactionsAmount": "Сумма транзакций CAT2 Chia(XCH)",
     "ChiaXCHCAT2Transactions": "Транзакции CAT2 Chia(XCH)",
-	"OverthepastChiaNFTTradereachedahighof": "За последние дни Chia NFT Trade достигло максимума в"
+	"OverthepastChiaNFTTradereachedahighof": "За последние дни Chia NFT Trade достигло максимума в",
+	"BlockChain": "Блокчейн",
+    "LatestTxns": "Последние транзакции",
+    "TopAccounts": "Лучшие аккаунты",
+    "NFT": "NFT",
+    "Ranks": "Рейтинги",
+    "Activities": "Активности",
+    "ChiaTopAccounts": "Лучшие аккаунты Chia",
+    "BalanceUSD": "Баланс (USD)",
+    "percentofCoins": "% монет"
 }

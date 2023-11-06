@@ -312,7 +312,7 @@
     "TotalIterations": "மொத்த மறு செய்கைகள்",
     "ProofofSpace": "இடத்திற்கான சான்று",
     "ProofofSpaceSize": "இட அளவுக்கான சான்று",
-    "Amount(XCH)": "தொகை (XCH)",
+    "AmountXCH": "தொகை (XCH)",
     "NoAdditions": "சேர்த்தல் இல்லை",
     "NoRemovals": "அகற்றுதல்கள் இல்லை",
     "NoRewards": "வெகுமதிகள் இல்லை",
@@ -628,5 +628,14 @@
     "ChiaXCHCATVolumeChart": "Chia(XCH) CAT பருவம் விளக்கம்",
     "ChiaXCHCATTradeChart": "Chia(XCH) CAT வர்த்தக விளக்கம்",
     "ChiaXCHCAT2TransactionsAmount": "Chia(XCH) CAT2 பருவம் தொழில்நுட்பம்",
-    "ChiaXCHCAT2Transactions": "Chia(XCH) CAT2 பருவம் வர்த்தகம்"
+    "ChiaXCHCAT2Transactions": "Chia(XCH) CAT2 பருவம் வர்த்தகம்",
+    "BlockChain": "பிளாக்செயின்",
+    "LatestTxns": "சமீபத்திய பரிவர்த்தனைகள்",
+    "TopAccounts": "சிறந்த கணக்குகள்",
+    "NFT": "NFT",
+    "Ranks": "அங்குமாலர்கள்",
+    "Activities": "செய்திகள்",
+    "ChiaTopAccounts": "சியா சிறந்த கணக்குகள்",
+    "BalanceUSD": "மீதம் (USD)",
+    "percentofCoins": "பங்குகளின் %"
 }
