@@ -607,11 +607,20 @@
 	"TheChiamarketcapitalisationstandsat": "La capitalisation boursière de Chia se situe à",
 	"andthetradingvolumeforChiais": "et le volume de négociation pour Chia est de",
 	"ItsworthnotingthatthealltimehighforChiasnetspaceis": "Il est à noter que le record absolu du Netspace Chia est de",
-	"ItsworthnotingthatthealltimehighforChiaspriceis ":"It's worth noting that the all-time high for Chia's price is ",
+	"ItsworthnotingChiaPrice ":"It's worth noting that the all-time high for Chia's price is ",
 	"ChiaNetspaceGrowthSummary": "Résumé de la Croissance du Netspace Chia",
     "ChiaXCHCATVolumeChart": "Graphique du Volume CAT de Chia(XCH)",
     "ChiaXCHCATTradeChart": "Graphique des Transactions CAT de Chia(XCH)",
     "ChiaXCHCAT2TransactionsAmount": "Montant des Transactions CAT2 de Chia(XCH)",
     "ChiaXCHCAT2Transactions": "Transactions CAT2 de Chia(XCH)",
-	"OverthepastChiaNFTTradereachedahighof": "Au cours des derniers jours, Chia NFT Trade a atteint un pic à"
+	"OverthepastChiaNFTTradereachedahighof": "Au cours des derniers jours, Chia NFT Trade a atteint un pic à",
+	"BlockChain": "Blockchain",
+    "LatestTxns": "Dernières transactions",
+    "TopAccounts": "Meilleurs comptes",
+    "NFT": "NFT",
+    "Ranks": "Rangs",
+    "Activities": "Activités",
+    "ChiaTopAccounts": "Meilleurs comptes Chia",
+    "BalanceUSD": "Solde (USD)",
+    "percentofCoins": "% des pièces"
 }

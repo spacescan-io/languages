@@ -624,10 +624,19 @@
 	"ChiaPriceSummary": "Chia Price Summary",
 	"AsofthelatestavailabledatathepriceofChiaXCHiscurrentlyat": "As of the latest available data, the price of Chia (XCH) is currently at",
 	"TheChiamarketcapitalisationstandsat": "The Chia market capitalisation stands at",
-	"ItsworthnotingthatthealltimehighforChiaspriceis ": "It's worth noting that the all-time high for Chia's price is ",
+	"ItsworthnotingChiaPrice ": "It's worth noting that the all-time high for Chia's price is ",
 	"ChiaNetspaceGrowthSummary":"Chia Netspace Growth Summary",
 	"ChiaXCHCATVolumeChart":"Chia(XCH) CAT Volume Chart",
 	"ChiaXCHCATTradeChart":"Chia(XCH) CAT Trade Chart",
 	"ChiaXCHCAT2TransactionsAmount":"Chia(XCH) CAT2 Transactions Amount",
-	"ChiaXCHCAT2Transactions":"Chia(XCH) CAT2 Transactions"
+	"ChiaXCHCAT2Transactions":"Chia(XCH) CAT2 Transactions",
+	"BlockChain":"BlockChain",
+	"LatestTxns": "Latest Txns",
+	"TopAccounts":"Top Accounts",
+	"NFT":"NFT",
+	"Ranks":"Ranks",
+	"Activities":"Activities",
+	"ChiaTopAccounts":"Chia Top Accounts",
+	"BalanceUSD":"Balance (USD)",
+	"percentofCoins":"% of Coins"
 }

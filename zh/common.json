@@ -624,10 +624,21 @@
 	"ChiaPriceHighlights": "Chia 价格亮点",
 	"ChiaPriceSummary": "Chia 价格摘要",
 	"AsofthelatestavailabledatathepriceofChiaXCHiscurrentlyat": "根据最新可用的数据，Chia (XCH) 的价格目前为",
-	"ItsworthnotingthatthealltimehighforChiaspriceis": "值得注意的是，Chia 的价格的历史最高值为",
+	"ItsworthnotingChiaPrice": "值得注意的是，Chia 的价格的历史最高值为",
 	"ChiaNetspaceGrowthSummary": "Chia 网络空间增长摘要",
     "ChiaXCHCATVolumeChart": "Chia(XCH) CAT 交易量图表",
     "ChiaXCHCATTradeChart": "Chia(XCH) CAT 交易图表",
     "ChiaXCHCAT2TransactionsAmount": "Chia(XCH) CAT2 交易金额",
-    "ChiaXCHCAT2Transactions": "Chia(XCH) CAT2 交易"
+    "ChiaXCHCAT2Transactions": "Chia(XCH) CAT2 交易",
+	"BlockChain": "区块链",
+    "LatestTxns": "最新交易",
+    "TopAccounts": "顶级账户",
+    "NFT": "NFT",
+    "Ranks": "排名",
+    "Activities": "活动",
+    "ChiaTopAccounts": "Chia顶级账户",
+    "BalanceUSD": "余额（美元）",
+    "percentofCoins": "硬币的百分比"
+
+	
 }
