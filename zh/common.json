@@ -638,7 +638,28 @@
     "Activities": "活动",
     "ChiaTopAccounts": "Chia顶级账户",
     "BalanceUSD": "余额（美元）",
-    "percentofCoins": "硬币的百分比"
+    "percentofCoins": "硬币的百分比",
+	"DiscoverCollectAndSellNFTsTokens": "发现、收集和出售NFT和代币",
+	"TopChiaNFTCollections": "Chia顶级NFT收藏品",
+	"TopChiaTokens": "Chia顶级代币",
+	"ViewAllTokens": "查看所有代币",
+	"ViewAllCollections": "查看所有收藏品",
+	"Blockchain": "区块链",
+	"TxnsTracker": "交易追踪器",
+	"By": "创建者",
+	"CopyCollectionID": "复制收藏品ID",
+	"TradeNow": "立即交易",
+	"NoOffer": "无报价",
+	"Listings": "列表",
+	"MixedOffer": "混合报价",
+	"Bids": "竞标",
+	"Active": "活跃",
+	"Pending": "待定",
+	"Cancelling": "取消中",
+	"Cancelled": "已取消",
+	"Completed": "已完成",
+	"Expired": "已过期",
+	"NoTrade": "无交易"
 
 	
 }

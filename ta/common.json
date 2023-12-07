@@ -637,5 +637,27 @@
     "Activities": "செய்திகள்",
     "ChiaTopAccounts": "சியா சிறந்த கணக்குகள்",
     "BalanceUSD": "மீதம் (USD)",
-    "percentofCoins": "பங்குகளின் %"
+    "percentofCoins": "பங்குகளின் %",
+    "DiscoverCollectAndSellNFTsTokens": "NFTகள் & டோக்கன்களை சேகரித்து விற்கவும்",
+    "TopChiaNFTCollections": "சியாவின் சிறந்த NFT சேகரிப்புகள்",
+    "TopChiaTokens": "சியாவின் சிறந்த டோக்கன்கள்",
+    "ViewAllTokens": "அனைத்து டோக்கன்களையும் காண்க",
+    "ViewAllCollections": "அனைத்து காலகட்டிகளையும் காண்க",
+    "Blockchain": "பிளாக்சைன்",
+    "TxnsTracker": "பரிவர்த்தனை கண்காணிப்பு  ",
+    "By": "உருவாக்கியவர்",
+    "CopyCollectionID": "சேகரிப்பு ஐடியை நகலெடு",
+    "TradeNow": "பரிவர்த்தனை செய்ய",
+    "NoOffer": "கொடுக்கும் போது இல்லை",
+    "Listings": "பட்டியல்கள்",
+    "MixedOffer": "கலந்த பொருட்குழு",
+    "Bids": "விநியோகங்கள்",
+    "Active": "செயலில்",
+    "Pending": "நிலுவையில் உள்ளது",
+    "Cancelling": "ரத்துசெய்தல்",
+    "Cancelled": "ரத்துசெய்யப்பட்டது",
+    "Completed": "நிறைவேற்றப்பட்டது",
+    "Expired": "காலாவதியாகிவிட்டது",
+    "NoTrade": "வர்த்தகம்  இல்லை"
+    
 }

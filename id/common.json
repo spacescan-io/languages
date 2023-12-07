@@ -622,6 +622,27 @@
     "Activities": "Aktivitas",
     "ChiaTopAccounts": "Akun Teratas Chia",
     "BalanceUSD": "Saldo (USD)",
-    "percentofCoins": "% dari Koin"
+    "percentofCoins": "% dari Koin",
+	"DiscoverCollectAndSellNFTsTokens": "Temukan, Kumpulkan, dan Jual NFT & Token",
+    "TopChiaNFTCollections": "Koleksi NFT Chia Teratas",
+    "TopChiaTokens": "Token Chia Teratas",
+    "ViewAllTokens": "Lihat Semua Token",
+    "ViewAllCollections": "Lihat Semua Koleksi",
+    "Blockchain": "Blockchain",
+    "TxnsTracker": "Pelacak Transaksi",
+    "By": "Dibuat oleh",
+    "CopyCollectionID": "Salin ID Koleksi",
+    "TradeNow": "Perdagangkan Sekarang",
+    "NoOffer": "Tidak Ada Penawaran",
+    "Listings": "Daftar",
+    "MixedOffer": "Penawaran Campuran",
+    "Bids": "Penawaran",
+    "Active": "Aktif",
+    "Pending": "Tertunda",
+    "Cancelling": "Membatalkan",
+    "Cancelled": "Dibatalkan",
+    "Completed": "Selesai",
+    "Expired": "Kedaluwarsa",
+    "NoTrade": "Tidak Ada Perdagangan"
 }
 
