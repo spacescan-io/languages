@@ -659,7 +659,12 @@
 	"Cancelled": "已取消",
 	"Completed": "已完成",
 	"Expired": "已过期",
-	"NoTrade": "无交易"
+	"NoTrade": "无交易",
+	"AllFilters": "全部过滤器",
+	"DID": "DID",
+	"Offer": "报价",
+	"EnterTransactionID": "输入交易ID",
+	"TrackTransaction": "跟踪交易"
 
 	
 }

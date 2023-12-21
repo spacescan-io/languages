@@ -643,5 +643,10 @@
     "Cancelled": "Annulé",
     "Completed": "Terminé",
     "Expired": "Expiré",
-    "NoTrade": "Aucun échange"
+    "NoTrade": "Aucun échange",
+	"AllFilters": "Tous les filtres",
+	"DID": "DID",
+	"Offer": "Offre",
+	"EnterTransactionID": "Entrer l'ID de transaction",
+	"TrackTransaction": "Suivre la transaction"
 }

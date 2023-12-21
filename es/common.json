@@ -644,5 +644,10 @@
   "Cancelled": "Cancelado",
   "Completed": "Completado",
   "Expired": "Caducado",
-  "NoTrade": "Sin comercio"
+  "NoTrade": "Sin comercio",
+  "AllFilters": "Todos los filtros",
+  "DID": "DID",
+  "Offer": "Oferta",
+  "EnterTransactionID": "Ingrese la ID de transacción",
+  "TrackTransaction": "Seguir transacción"
 }

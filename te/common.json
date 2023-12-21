@@ -659,5 +659,10 @@
     "Cancelled": "రద్దుచేయబడింది",
     "Completed": "పూర్తయింది",
     "Expired": "అవసానంగా",
-    "NoTrade": "వాణిజ్యం లేదు"
+    "NoTrade": "వాణిజ్యం లేదు",
+    "AllFilters": "అన్ని ఫిల్టర్లు",
+    "DID": "DID",
+    "Offer": "ఆఫర్",
+    "EnterTransactionID": "లావాదేవీ ఐడి ఎంటర్ చేయండి",
+    "TrackTransaction": "లావాదేవీని ట్రాక్ చేయండి"
 }

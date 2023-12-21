@@ -643,6 +643,11 @@
     "Cancelled": "Dibatalkan",
     "Completed": "Selesai",
     "Expired": "Kedaluwarsa",
-    "NoTrade": "Tidak Ada Perdagangan"
+    "NoTrade": "Tidak Ada Perdagangan",
+	"AllFilters": "Semua Filter",
+	"DID": "DID",
+	"Offer": "Penawaran",
+	"EnterTransactionID": "Masukkan ID Transaksi",
+	"TrackTransaction": "Lacak Transaksi"
 }
 

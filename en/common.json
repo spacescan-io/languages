@@ -659,5 +659,11 @@
 	"Cancelled":"Cancelled",
 	"Completed":"Completed",
 	"Expired":"Expired",
-	"NoTrade":"No Trade"
+	"NoTrade":"No Trade",
+	"AllFilters":"AllFilters",
+	"DID":"DID",
+	"Offer":"Offer",
+	"EnterTransactionID":"Enter Transaction ID",
+	"TrackTransaction":"Track Transaction"
+
 }
