@@ -643,5 +643,10 @@
     "Cancelled": "Отменено",
     "Completed": "Завершено",
     "Expired": "Истекший",
-    "NoTrade": "Нет сделок"
+    "NoTrade": "Нет сделок",
+	"AllFilters": "Все фильтры",
+	"DID": "DID",
+	"Offer": "Предложение",
+	"EnterTransactionID": "Введите ID транзакции",
+	"TrackTransaction": "Отследить транзакцию"
 }

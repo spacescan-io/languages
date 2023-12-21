@@ -644,5 +644,10 @@
     "Cancelled": "취소됨",
     "Completed": "완료됨",
     "Expired": "만료됨",
-    "NoTrade": "거래 없음"
+    "NoTrade": "거래 없음",
+	"AllFilters": "모든 필터",
+	"DID": "DID",
+	"Offer": "제안",
+	"EnterTransactionID": "거래 ID 입력",
+	"TrackTransaction": "거래 추적"
 }

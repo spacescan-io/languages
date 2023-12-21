@@ -658,5 +658,10 @@
   "Cancelled": "ถูกยกเลิก",
   "Completed": "เสร็จสมบูรณ์",
   "Expired": "หมดอายุ",
-  "NoTrade": "ไม่มีการซื้อขาย"
+  "NoTrade": "ไม่มีการซื้อขาย",
+  "AllFilters": "ทั้งหมด",
+  "DID": "DID",
+  "Offer": "เสนอ",
+  "EnterTransactionID": "ป้อนรหัสธุรกรรม",
+  "TrackTransaction": "ติดตามธุรกรรม"
 }

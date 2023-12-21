@@ -655,5 +655,10 @@
 	"Cancelled": "రద్దు చేయబడింది",
 	"Completed": "పూర్తిచేసినది",
 	"Expired": "కాలావధికి చేరుకునేది",
-	"NoTrade": "వ్యాపారం లేదు"
+	"NoTrade": "వ్యాపారం లేదు",
+	"AllFilters": "ಎಲ್ಲಾ ಸೆಟ್ಟಿಗಳು",
+	"DID": "DID",
+	"Offer": "ಆಫರ್",
+	"EnterTransactionID": "ವರ್ತನಾ ಐಡಿಯನ್ನು ನಮೂದಿಸಿ",
+	"TrackTransaction": "ವರ್ತನೆಯನ್ನು ಹೊಸಬಹುದು"
 }
