@@ -576,7 +576,7 @@
     "ChiaMempoolAdditionandRemovalSummary": "Chia நினைவுக் குழு சேர்ப்பு மற்றும் அகற்றும் சுருக்கம்",
     "OverthepastChiamempooladditionsreachedahighof": "கடந்த காலத்தில், சியா நினைவுக் குழு சேர்ப்பது அதிசயமாக அடைந்தது",
     "ItsworthnotingthatthealltimehighforChiasmempooladditionsis": "அது மதிப்பிடுகிறது என்பது மதிப்படுத்தப்படும் அனைத்து நேர உயர அடைந்தது",
-    "OverthepastChiasmempoolremovalsreachedahighof ": "கடந்த காலத்தில், சியா நினைவுக் குழு அகற்றல்கள் அதிசயமாக அடைந்தன",
+    "OverthepastChiasmempoolremovalsreachedahighof": "கடந்த காலத்தில், சியா நினைவுக் குழு அகற்றல்கள் அதிசயமாக அடைந்தன",
     "ItsworthnotingthatthealltimehighforChiasmempoolremovalsis": "அது மதிப்பிடுகிறது என்பது மதிப்படுத்தப்படும் அனைத்து நேர உயர அடைந்தது",
     "ChiaXCHMempoolCostChart": "Chia (XCH) நினைவுக் குழு செலவு விளக்கம்",
     "ChiaMempoolCostHighlights": "Chia நினைவுக் குழு செலவு முக்கிய அம்சங்கள்",
@@ -642,7 +642,7 @@
     "TopChiaNFTCollections": "சியாவின் சிறந்த NFT சேகரிப்புகள்",
     "TopChiaTokens": "சியாவின் சிறந்த டோக்கன்கள்",
     "ViewAllTokens": "அனைத்து டோக்கன்களையும் காண்க",
-    "ViewAllCollections": "அனைத்து காலகட்டிகளையும் காண்க",
+    "ViewAllCollections": "அனைத்து சேகரிப்புகள் காண்க",
     "Blockchain": "பிளாக்சைன்",
     "TxnsTracker": "பரிவர்த்தனை கண்காணிப்பு  ",
     "By": "உருவாக்கியவர்",
@@ -664,6 +664,4 @@
     "Offer": "சலுகை",
     "EnterTransactionID": "பரிவர்த்தனை ஐடி உள்ளிடவும்",
     "TrackTransaction": "பரிவர்த்தனையைக் கண்காணிக்க"
-  
-    
 }

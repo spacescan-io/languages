@@ -576,7 +576,7 @@
 	"ChiaMempoolAdditionandRemovalSummary": "Сводка добавления и удаления Mempool Chia",
 	"OverthepastChiamempooladditionsreachedahighof": "За последний период добавления Mempool Chia достигли максимума",
 	"ItsworthnotingthatthealltimehighforChiasmempooladditionsis": "Следует отметить, что исторический максимум по добавлению Mempool Chia составил",
-	"OverthepastChiasmempoolremovalsreachedahighof ": "За последний период удаления Mempool Chia достигли максимума",
+	"OverthepastChiasmempoolremovalsreachedahighof": "За последний период удаления Mempool Chia достигли максимума",
 	"ItsworthnotingthatthealltimehighforChiasmempoolremovalsis": "Следует отметить, что исторический максимум по удалению Mempool Chia составил",
 	"ChiaXCHMempoolCostChart": "График стоимости Mempool Chia (XCH)",
 	"ChiaMempoolCostHighlights": "Основные моменты стоимости Mempool Chia",
@@ -649,4 +649,5 @@
 	"Offer": "Предложение",
 	"EnterTransactionID": "Введите ID транзакции",
 	"TrackTransaction": "Отследить транзакцию"
+	
 }

@@ -576,7 +576,7 @@
   "ChiaMempoolAdditionandRemovalSummary": "สรุปการเพิ่มและลบ Mempool Chia",
   "OverthepastChiamempooladditionsreachedahighof": "ในช่วงเวลาที่ผ่านมาการเพิ่ม Mempool ของ Chia ได้รับสูงสุดที่",
   "ItsworthnotingthatthealltimehighforChiasmempooladditionsis": "ควรทราบว่าสูงสุดตลอดกาลสำหรับการเพิ่ม Mempool ของ Chia คือ",
-  "OverthepastChiasmempoolremovalsreachedahighof ": "ในช่วงเวลาที่ผ่านมาการลบ Mempool ของ Chia ได้รับสูงสุดที่",
+  "OverthepastChiasmempoolremovalsreachedahighof": "ในช่วงเวลาที่ผ่านมาการลบ Mempool ของ Chia ได้รับสูงสุดที่",
   "ItsworthnotingthatthealltimehighforChiasmempoolremovalsis": "ควรทราบว่าสูงสุดตลอดกาลสำหรับการลบ Mempool ของ Chia คือ",
   "ChiaXCHMempoolCostChart": "แผนภูมิค่า Mempool ของ Chia (XCH)",
   "ChiaMempoolCostHighlights": "ข้อมูลสำคัญค่า Mempool ของ Chia",
@@ -664,4 +664,5 @@
   "Offer": "เสนอ",
   "EnterTransactionID": "ป้อนรหัสธุรกรรม",
   "TrackTransaction": "ติดตามธุรกรรม"
+  
 }

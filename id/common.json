@@ -576,7 +576,7 @@
 	"ChiaMempoolAdditionandRemovalSummary": "Ringkasan Penambahan dan Penghapusan Mempool Chia",
 	"OverthepastChiamempooladditionsreachedahighof": "Selama periode terakhir, penambahan Mempool Chia mencapai tertinggi sebesar",
 	"ItsworthnotingthatthealltimehighforChiasmempooladditionsis": "Perlu dicatat bahwa rekor tertinggi untuk penambahan Mempool Chia adalah",
-	"OverthepastChiasmempoolremovalsreachedahighof ": "Selama periode terakhir, penghapusan Mempool Chia mencapai tertinggi sebesar",
+	"OverthepastChiasmempoolremovalsreachedahighof": "Selama periode terakhir, penghapusan Mempool Chia mencapai tertinggi sebesar",
 	"ItsworthnotingthatthealltimehighforChiasmempoolremovalsis": "Perlu dicatat bahwa rekor tertinggi untuk penghapusan Mempool Chia adalah",
 	"ChiaXCHMempoolCostChart": "Grafik Biaya Mempool Chia (XCH)",
 	"ChiaMempoolCostHighlights": "Sorotan Biaya Mempool Chia",
@@ -649,5 +649,6 @@
 	"Offer": "Penawaran",
 	"EnterTransactionID": "Masukkan ID Transaksi",
 	"TrackTransaction": "Lacak Transaksi"
+	
 }
 

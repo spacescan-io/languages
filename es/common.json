@@ -577,7 +577,7 @@
   "ChiaMempoolAdditionandRemovalSummary": "Resumen de adición y eliminación de Mempool de Chia",
   "OverthepastChiamempooladditionsreachedahighof": "En el pasado, las adiciones de Mempool de Chia alcanzaron un máximo de",
   "ItsworthnotingthatthealltimehighforChiasmempooladditionsis": "Vale la pena mencionar que el máximo histórico de las adiciones de Mempool de Chia es de",
-  "OverthepastChiasmempoolremovalsreachedahighof ": "En el pasado, las eliminaciones de Mempool de Chia alcanzaron un máximo de",
+  "OverthepastChiasmempoolremovalsreachedahighof": "En el pasado, las eliminaciones de Mempool de Chia alcanzaron un máximo de",
   "ItsworthnotingthatthealltimehighforChiasmempoolremovalsis": "Vale la pena mencionar que el máximo histórico de las eliminaciones de Mempool de Chia es de",
   "ChiaXCHMempoolCostChart": "Gráfico de costo de Mempool de Chia (XCH)",
   "OverthepastChiaNFTTradereachedahighof": "En los últimos días, Chia NFT Trade alcanzó un máximo de",
@@ -650,4 +650,5 @@
   "Offer": "Oferta",
   "EnterTransactionID": "Ingrese la ID de transacción",
   "TrackTransaction": "Seguir transacción"
+  
 }

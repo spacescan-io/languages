@@ -575,7 +575,7 @@
 	"ChiaMempoolAdditionandRemovalSummary": "Chia ಮೆಮ್‌ಪೂಲ್ ಸೇರಿಸಿಕೊಳ್ಳುವ ಮತ್ತು ತೆಗೆಯುವ ಸಾರಾಂಶ",
 	"OverthepastChiamempooladditionsreachedahighof": "ಕಡಿಮೆಯಾದ Chia ಮೆಮ್‌ಪೂಲ್ ಸೇರಿಸಿಕೊಳ್ಳುವವರು ಹೆಚ್ಚಾಗಿದ್ದರು",
 	"ItsworthnotingthatthealltimehighforChiasmempooladditionsis": "ಅದು ಗಮನಿಸಬೇಕಾದ ಅಂಶವಾಗಿದೆ, Chia ಮೆಮ್‌ಪೂಲ್ ಸೇರಿಸಿಕೊಳ್ಳುವ ಮತ್ತು ಅಖಿಲ ಸಮಯ ಹೈ",
-	"OverthepastChiasmempoolremovalsreachedahighof ": "ಕಡಿಮೆಯಾದ Chia ಮೆಮ್‌ಪೂಲ್ ತೆಗೆಯುವವರು ಹೆಚ್ಚಾಗಿದ್ದರು",
+	"OverthepastChiasmempoolremovalsreachedahighof": "ಕಡಿಮೆಯಾದ Chia ಮೆಮ್‌ಪೂಲ್ ತೆಗೆಯುವವರು ಹೆಚ್ಚಾಗಿದ್ದರು",
 	"ItsworthnotingthatthealltimehighforChiasmempoolremovalsis": "ಅದು ಗಮನಿಸಬೇಕಾದ ಅಂಶವಾಗಿದೆ, Chia ಮೆಮ್‌ಪೂಲ್ ತೆಗೆಯುವವರು ಅಖಿಲ ಸಮಯ ಹೈ",
 	"ChiaXCHMempoolCostChart": "Chia (XCH) ಮೆಮ್‌ಪೂಲ್ ವ್ಯಯ ಚಾರ್ಟ್",
 	"ChiaMempoolCostHighlights": "Chia ಮೆಮ್‌ಪೂಲ್ ವ್ಯಯ ಮುಖ್ಯಾಂಶಗಳು",
@@ -661,4 +661,5 @@
 	"Offer": "ಆಫರ್",
 	"EnterTransactionID": "ವರ್ತನಾ ಐಡಿಯನ್ನು ನಮೂದಿಸಿ",
 	"TrackTransaction": "ವರ್ತನೆಯನ್ನು ಹೊಸಬಹುದು"
+	
 }
