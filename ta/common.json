@@ -500,7 +500,6 @@
     "LearnMore": "மேலும் அறிய",
     "ManageyourcollectionsofuniqueNFTstoshareandsell": "உங்கள் அதிசயமான NFT சேகரிப்புகளை மாடல் மற்றும் விற்க.",
     "EnterTokenID": "டோக்கன் ஐடி உள்ளிடவும்",
-    "ManageyourTokens": "உங்கள் டோக்கன்களை நிர்வகிக்கவும்.",
     "ImportYourTokens": "உங்கள் டோக்கன்களை இறக்குமதி செய்க",
     "SignIn": "உள்நுழைக",
     "SignOut": "வெளியேறு",
@@ -663,5 +662,6 @@
     "DID": "DID",
     "Offer": "சலுகை",
     "EnterTransactionID": "பரிவர்த்தனை ஐடி உள்ளிடவும்",
-    "TrackTransaction": "பரிவர்த்தனையைக் கண்காணிக்க"
+    "TrackTransaction": "பரிவர்த்தனையைக் கண்காணிக்க",
+    "ManageyourTokens": "உங்கள் டோக்கனை நிர்வகிக்க வழங்குநர் உரிமையை சரிபார்க்கவும்"
 }
