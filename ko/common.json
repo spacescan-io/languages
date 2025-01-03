@@ -649,6 +649,6 @@
 	"DID": "DID",
 	"Offer": "제안",
 	"EnterTransactionID": "거래 ID 입력",
-	"TrackTransaction": "거래 추적"
-	
+	"TrackTransaction": "거래 추적",
+	"PrivacyPolicy": "개인정보 처리방침"
 }
