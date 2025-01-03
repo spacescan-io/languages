@@ -648,7 +648,8 @@
 	"DID": "DID",
 	"Offer": "Penawaran",
 	"EnterTransactionID": "Masukkan ID Transaksi",
-	"TrackTransaction": "Lacak Transaksi"
+	"TrackTransaction": "Lacak Transaksi",
+	"PrivacyPolicy": "Kebijakan Privasi"
 	
 }
 

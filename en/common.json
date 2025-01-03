@@ -666,5 +666,6 @@
 	"EnterTransactionID":"Enter Transaction ID",
 	"TrackTransaction":"Track Transaction",
 	"NFTFlaggedMessage": "This NFT identified as a scam please be cautious before making any transactions.",
-	"NFTSensitiveMessage": "We are hiding this NFT image since, this has restricted sensitive content."
+	"NFTSensitiveMessage": "We are hiding this NFT image since, this has restricted sensitive content.",
+	"PrivacyPolicy": "Privacy Policy"
 }

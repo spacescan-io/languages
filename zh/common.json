@@ -664,6 +664,7 @@
 	"DID": "DID",
 	"Offer": "报价",
 	"EnterTransactionID": "输入交易ID",
-	"TrackTransaction": "跟踪交易"
+	"TrackTransaction": "跟踪交易",
+	"PrivacyPolicy": "隐私政策"
 
 }

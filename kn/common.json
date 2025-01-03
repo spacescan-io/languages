@@ -660,6 +660,7 @@
 	"DID": "DID",
 	"Offer": "ಆಫರ್",
 	"EnterTransactionID": "ವರ್ತನಾ ಐಡಿಯನ್ನು ನಮೂದಿಸಿ",
-	"TrackTransaction": "ವರ್ತನೆಯನ್ನು ಹೊಸಬಹುದು"
+	"TrackTransaction": "ವರ್ತನೆಯನ್ನು ಹೊಸಬಹುದು",
+	"PrivacyPolicy": "ಗೌಪ್ಯತೆ ನೀತಿ"
 	
 }
